@@ -1,5 +1,5 @@
-# Dynamite-Charting-Tools
-Some useful charting tools of the fanmade music game Dynamite.
+# Dynamite-Tools
+Some useful tools of the fanmade music game Dynamite.
 
 # kps_plot
 
